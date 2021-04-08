@@ -45,20 +45,20 @@ U-net model was trained by 60 epochs. At the end of process training accuracy an
 
 
 ## Predictions
-<img src="images/9_test.png" width="400">
-![](images/9_pred.png)
-![](images/13_test.png)
-![](images/13_pred.png)
-![](images/19_test.png)
-![](images/19_pred.png)
-![](images/21_test.png)
-![](images/21_pred.png)
-![](images/44_test.png)
-![](images/44_pred.png)
-![](images/74_test.png)
-![](images/74_pred.png)
-![](images/79_test.png)
-![](images/79_pred.png)
+<img src="images/9_test.png" width="350">
+<img src="images/9_pred.png" width="350">
+<img src="images/13_test.png" width="350">
+<img src="images/13_pred.png" width="350">
+<img src="images/19_test.png" width="350">
+<img src="images/19_pred.png" width="350">
+<img src="images/21_test.png" width="350">
+<img src="images/21_pred.png" width="350">
+<img src="images/44_test.png" width="350">
+<img src="images/44_pred.png" width="350">
+<img src="images/74_test.png" width="350">
+<img src="images/74_pred.png" width="350">
+<img src="images/79_test.png" width="350">
+<img src="images/79_pred.png" width="350">
 
 
 
