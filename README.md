@@ -45,7 +45,7 @@ U-net model was trained by 60 epochs. At the end of process training accuracy an
 
 
 ## Predictions
-![](images/9_test.png =404x400)
+<img src="images/9_test.png" width="400">
 ![](images/9_pred.png)
 ![](images/13_test.png)
 ![](images/13_pred.png)
@@ -59,6 +59,7 @@ U-net model was trained by 60 epochs. At the end of process training accuracy an
 ![](images/74_pred.png)
 ![](images/79_test.png)
 ![](images/79_pred.png)
+
 
 
 # References
