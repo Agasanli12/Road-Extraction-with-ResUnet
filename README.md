@@ -29,7 +29,7 @@ The following images illustrate the example, splitted version and mask respectiv
 ![](images/maps/val/1.jpg)
 ![](images/1_satellite.jpg)
 ![](images/1_computer.jpg)
-![](images/1.jpg)
+![](images/1.png)
 
 # Dice Similarity
 
@@ -37,7 +37,7 @@ The Dice similarity coefficient, also known as the Sørensen–Dice index or sim
 
 Dice coefficient can be calculated by formula:
 ![](images/formula.png)
-![](dice_coefficient.png)
+![](images/dice_coefficient.png)
 
 # Training
 
